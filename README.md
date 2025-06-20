@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Rafael
 
-<!--
-**rafaelromaquela/rafaelromaquela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a final-year Mechatronics Engineering student at **USP/EESC**.
 
-Here are some ideas to get you started:
+## 🤖 Devices & Systems I've Worked On
+- **UR20 robotic arm** – control, automation, and programming
+- **GO2 quadruped (Unitree)** –  Human-robot interaction (HRI)
+- **Tobii Pro Glasses 2** - Eye tracking 
+- Computer vision systems and techniques – AprilTags, homography, and image processing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I primarily program in:
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) - for prototyping, simulations, computer vision, and ML.
+
+---

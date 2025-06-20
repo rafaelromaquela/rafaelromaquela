@@ -9,6 +9,6 @@
 - Computer vision systems and techniques – AprilTags, homography, and image processing
 
 💻 I primarily program in:
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) - for prototyping, simulations, computer vision, and ML.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) - for prototyping, simulations, computer vision, and ML.
 
 ---
